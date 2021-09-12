@@ -4,10 +4,9 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+1. [One](https://www.hostinger.com/tutorials/linux-commands)<br>
+This article has some of the most commonly used basic linux commands.
+It also includes usage and use cases so we know when and how to use these commands.
 
 2. [Two](https://en.wikipedia.org/wiki/2)<br>
 Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
