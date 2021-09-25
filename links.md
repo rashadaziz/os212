@@ -28,3 +28,14 @@ A video from freeCodeCamp.org that is a tutorial to start programming in C for b
 
 3. [Cyber Security Introduction](https://www.youtube.com/watch?v=aIq44rZntmg)<br>
 A very good video on the introduction of Cyber Security.
+
+## Week 03
+
+1. [FUSE Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+This website gives a brief documentation of the Filesystem in Userspace or often called FUSE.
+
+2. [File Systems Crash Course](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+A video about the basics of file systems, explains about file formats and how to operating systems organize files (directories).
+
+3. [File-System Implementation Summary](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/12_FileSystemImplementation.html)<br>
+This website gives a summary on the file-system implementation chapter of the "Operating System Concepts" book by Abraham Silberschatz.
