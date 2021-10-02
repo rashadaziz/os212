@@ -39,3 +39,14 @@ A video about the basics of file systems, explains about file formats and how to
 
 3. [File-System Implementation Summary](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/12_FileSystemImplementation.html)<br>
 This website gives a summary on the file-system implementation chapter of the "Operating System Concepts" book by Abraham Silberschatz.
+
+## Week 04
+
+1. [Understanding Dynamic Memory Allocation in C (malloc(), calloc(), free() and realloc())](https://www.youtube.com/watch?v=xDVC3wKjS64)<br>
+A very good video explaining the purpose of each method, that also gives an example C program showcasing each method and how or when to use them.
+
+2. [What is "Use After Free" (UAF) vulnerability](https://encyclopedia.kaspersky.com/glossary/use-after-free/)<br>
+This article by Kaspersky (a Cybersecurity Company), gives a concise and easy-to-follow article about UAF vulnerability.
+
+3. [Address operator in C](https://www.educba.com/address-operator-in-c/)<br>
+This website has an article explaining the purpose of address operators in C, as well as how and when to use them.
