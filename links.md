@@ -48,3 +48,9 @@ This is an introduction video on what and how virtual memory works and why it is
 
 14. [popen() implementation in C](https://www.youtube.com/watch?v=tEQHRaPAL-o)<br>
 This is a video on what is popen() and why do we use it, and it also shows how we should implement it.
+
+15. [Threads Cheat Sheet](https://github.com/okeeffed/cheat-sheets/blob/master/COMP3520-OS/3-Threads.md)
+A cheat sheet that explains a bunch of terms about Threads. This gives a very good and concise explanation about threads in Operating Systems.
+
+16. [Processes Summary](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)
+This website gives a summary on what Processes are and how they work in our Operating Systems.
