@@ -54,3 +54,12 @@ A cheat sheet that explains a bunch of terms about Threads. This gives a very go
 
 16. [Processes Summary](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)
 This website gives a summary on what Processes are and how they work in our Operating Systems.
+
+17. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)
+This video gives an explanation on the problems that arise when multiple processes share the same logical address space, and how to solve these problems in an orderly fashion
+
+18. [The Critical Section Problem](https://www.tutorialspoint.com/critical-section-problem)
+A very concise article explaining the Critical Section Problem, such as why it occurs and the possible solutions to solve the problem.
+
+19. [What is a Deadlock? and how do we solve it?](https://www.youtube.com/watch?v=UVo9mGARkhQ)
+This video gives an explanation on what is a Deadlock in Operating Systems, such as how does it happen, real world scenarios of Deadlocks, and the strategies taken in order to handle Deadlocks
