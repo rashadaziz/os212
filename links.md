@@ -69,4 +69,11 @@ This video gives an explanation on the problems that arise when multiple process
 A very concise article explaining the Critical Section Problem, such as why it occurs and the possible solutions to solve the problem.
 
 19. [What is a Deadlock? and how do we solve it?](https://www.youtube.com/watch?v=UVo9mGARkhQ)<br>
-This video gives an explanation on what is a Deadlock in Operating Systems, such as how does it happen, real world scenarios of Deadlocks, and the strategies taken in order to handle Deadlocks
+This video gives an explanation on what is a Deadlock in Operating Systems, such as how does it happen, real world scenarios of Deadlocks, and the strategies taken in order to handle Deadlocks.
+
+## WEEK 08
+20. [Introduction to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M)<br>
+A video introducing CPU Scheduling in operating systems. A really good and concise video that explains fundamental concepts really well.
+
+21. [CPU Scheduling summary](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+An article by tutorialspoint summarizing the important part of CPU scheduling topic. It gives an explanation such as the different types of schedulers used by modern operating systems.
